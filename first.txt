@@ -1,0 +1,2 @@
+This is just a stupid git.
+This is my first commit
