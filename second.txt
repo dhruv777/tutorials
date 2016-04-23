@@ -1,2 +1,2 @@
-This is a second text file that I am making.
-Some changes to second.
+This is a second text file that I was making.
+But then this file was changed......
